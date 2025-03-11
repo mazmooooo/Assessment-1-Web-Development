@@ -1,0 +1,18 @@
+body{
+    background-color: #FCE7C8;
+}
+
+.margin {
+    margin: 20px auto;
+    max-width: 600px;
+    height: 300;
+    width: 500;
+}
+
+p{
+    color: #443627;
+}
+
+img{
+    filter: contrast(110%) brightness(85%) grayscale(17%);
+}
